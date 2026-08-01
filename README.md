@@ -1,5 +1,3 @@
-# The Binding of Input | VGA Episode 5
-
 # The Binding of Input: Building a DOS Input Stack | Video Game Anachronism, Ep. 5
 
 This is the accompanying code for [Episode 5](https://youtu.be/-n_8TEIih-M) of the Video Game Anachronism series.
